@@ -1,0 +1,112 @@
+{
+  "tcp_alloc": {
+    "allowed": 4,
+    "claimed": 1,
+    "desired": 1
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "agent_over_limit": false,
+      "alloc": {
+        "data": {
+          "assigned_domain": "places-increase.gl.joinmc.link",
+          "assigned_srv": "places-increase.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "69307609-9d19-4e2a-87bd-fbc09cee92d2",
+          "ip_hostname": "27.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 31548,
+          "port_start": 31547,
+          "region": "global",
+          "static_ip4": "147.185.221.27",
+          "static_ip6": "2602:fbaf:0:1::1b",
+          "tunnel_ip": "147.185.221.27"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-12-08T17:04:16.845207Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "hostname_verify_level": "NoRawIp",
+      "id": "09095673-96a0-4c97-861f-b0658009f39b",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "5c97840a-20e8-467e-bbdd-c466c14be0af",
+          "agent_name": "minecraft-falsos",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "agent_over_limit": false,
+      "alloc": {
+        "data": {
+          "assigned_domain": "great-gender.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "25cfebd8-3c38-4d3d-b3ec-7a4a3c3b7886",
+          "ip_hostname": "27.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 36666,
+          "port_start": 36665,
+          "region": "global",
+          "static_ip4": "147.185.221.27",
+          "static_ip6": "2602:fbaf:0:1::1b",
+          "tunnel_ip": "147.185.221.27"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-12-08T20:03:23.272798Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "hostname_verify_level": "NoRawIp",
+      "id": "a00e1ac9-5b79-45b0-b0a4-92f54eec4ea8",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "5c97840a-20e8-467e-bbdd-c466c14be0af",
+          "agent_name": "minecraft-falsos",
+          "local_ip": "127.0.0.1",
+          "local_port": 36665
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 4,
+    "claimed": 1,
+    "desired": 1
+  }
+}
