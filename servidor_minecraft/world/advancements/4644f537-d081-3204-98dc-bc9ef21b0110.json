@@ -1,0 +1,343 @@
+{
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:use_sleeping_bag": {
+    "criteria": {
+      "use_sleeping_bag": "2026-01-13 05:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_diamond": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-01-13 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-01-13 05:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_iron": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:silverfish": "2026-01-13 06:00:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_gold": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_wood": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-01-13 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-01-13 05:32:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2026-01-13 05:58:20 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper_iron": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_gold": {
+    "criteria": {
+      "has_crafting_table": "2026-01-13 05:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2026-01-13 05:31:56 +0000"
+    },
+    "done": true
+  
